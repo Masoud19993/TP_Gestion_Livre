@@ -1,4 +1,4 @@
-package gestionnaireDeLivres;
+package gestionLivre;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

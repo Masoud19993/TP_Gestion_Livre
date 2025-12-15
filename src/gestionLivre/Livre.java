@@ -1,4 +1,4 @@
-package gestionnaireDeLivres;
+package gestionLivre;
 
 public class Livre {
 	
